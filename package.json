@@ -1,0 +1,14 @@
+{
+  "name": "midi-link",
+  "version": "1.0.0",
+  "description": "Event listener based WebMIDI library",
+  "main": "index.js",
+  "scripts": {
+    "test": "budo demo.js -o -l"
+  },
+  "author": "Michael Feldstein",
+  "license": "ISC",
+  "devDependencies": {
+    "budo": "^9.4.5"
+  }
+}
